@@ -1,0 +1,8 @@
+flask
+flask-cors
+paho-mqtt
+pyserial
+smbus2
+spidev
+RPi.GPIO
+python-dotenv
